@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* #root{
+    background-image: url("https://imgs.search.brave.com/WNoOQF882tUSCY8mLkLSrIOgHEOcbaO963IFUnV4JOQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNjYw/NjUxMjk0L3ZlY3Rv/ci9jdXJyZW5jaWVz/LWZvcmV4LXRyYWRp/bmcuanBnP3M9NjEy/eDYxMiZ3PTAmaz0y/MCZjPU96cGczVXlK/cXN6aVBfZ3FlUS1z/TVVxQ085SXFTLVRN/SnpZOUQzekNMYkk9");
+    background-size:cover;
+    background-repeat:no-repeat;
+    height: 100vh;
+} */
